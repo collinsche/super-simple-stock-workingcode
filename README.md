@@ -16,8 +16,8 @@ Super Simple Stocks Technical Test
 
 ****************************************************************************************
 
-   1)  Calculate Dividend Yield for given stock with given market price 
-     ** Taking Market Price as 100
+     1)   Calculate Dividend Yield for given stock with given market price 
+      /** Taking Market Price as 100 **/
       Dividend Yield for TEA  is: 0.0
       Dividend Yield for POP  is: 0.08
       Dividend Yield for ALE  is: 0.23
@@ -26,8 +26,8 @@ Super Simple Stocks Technical Test
       
       
 ****************************************************************************************
-   2)Calculate P/E Ratio for given stock with given market price 
-      ** Taking Market Price as 100
+     2)Calculate P/E Ratio for given stock with given market price 
+      /** Taking Market Price as 100 **/
       PE Ratio for TEA  is: Infinity
       PE Ratio for POP  is: 12.5
       PE Ratio for ALE  is: 4.34782609
