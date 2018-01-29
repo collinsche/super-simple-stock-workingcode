@@ -46,6 +46,7 @@ Super Simple Stocks Technical Test
       Trade Indicator: BUY
       Trade Price: 100.0
 
+
 ****************************************************************************************
     4)Calculate Volume Weighted Stock Price based on trades in past 15 minutes
 
@@ -56,6 +57,7 @@ Super Simple Stocks Technical Test
     Trade Indicator: BUY
     Trade Price: 22.0
 
+
     Trade:
     Timestamp: Fri Feb 26 14:22:35 GMT 2018
     Stock : GIN
@@ -63,12 +65,14 @@ Super Simple Stocks Technical Test
     Trade Indicator: BUY
     Trade Price: 3.0
 
+
     Trade:
     Timestamp: Fri Feb 26 14:25:18 GMT 2018
     Stock : GIN
     Quantity: 36
     Trade Indicator: BUY
     Trade Price: 40.0
+
 
     Trade:
     Timestamp: Fri Feb 26 14:30:20 GMT 2018
@@ -89,54 +93,72 @@ Super Simple Stocks Technical Test
      Quantity: 67
      Trade Indicator: BUY
      Trade Price: 40.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 14:44:35 GMT 2018
      Stock : TEA
      Quantity: 29
      Trade Indicator: BUY
      Trade Price: 72.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 14:49:04 GMT 2018
      Stock : TEA
      Quantity: 46
      Trade Indicator: BUY
      Trade Price: 4.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 14:52:18 GMT 2018
      Stock : POP
      Quantity: 36
      Trade Indicator: BUY
      Trade Price: 95.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 14:56:20 GMT 2018
      Stock : POP
      Quantity: 34
      Trade Indicator: BUY
      Trade Price: 69.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 15:05:22 GMT 2018
      Stock : POP
      Quantity: 54
      Trade Indicator: BUY
      Trade Price: 77.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 15:07:09 GMT 2018
      Stock : ALE
      Quantity: 56
      Trade Indicator: BUY
      Trade Price: 53.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 15:12:30 GMT 2018
      Stock : ALE
      Quantity: 20
      Trade Indicator: BUY
      Trade Price: 53.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 15:18:11 GMT 2018
      Stock : ALE
      Quantity: 2
      Trade Indicator: BUY
      Trade Price: 44.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 15:25:22 GMT 2018
      Stock : GIN
@@ -149,30 +171,40 @@ Super Simple Stocks Technical Test
      Quantity: 90
      Trade Indicator: BUY
      Trade Price: 81.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 15:32:02 GMT 2018
      Stock : GIN
      Quantity: 58
      Trade Indicator: BUY
      Trade Price: 64.0
+     
+    
     Trade:
      Timestamp: Fri Feb 26 15:35:10 GMT 2018
      Stock : JOE
      Quantity: 19
      Trade Indicator: BUY
      Trade Price: 85.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 15:37:44 GMT 2018
      Stock : JOE
      Quantity: 22
      Trade Indicator: BUY
      Trade Price: 13.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 15:42:20 GMT 2018
      Stock : JOE
      Quantity: 16
      Trade Indicator: BUY
      Trade Price: 97.0
+     
+     
     Trade:
      Timestamp: Fri Feb 26 15:48:03 GMT 2018
      Stock : GIN
